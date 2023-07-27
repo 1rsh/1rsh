@@ -1,16 +1,24 @@
-### Hello there! 👋
+<h2>Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, My name is Irsh Vijayvargia</h2>
+I am third year undergrad at IIT Kharagpur with a major in Electronics and Electrical Communication Engineering. I have a keen interest in Data Science, Artificial Intelligence and Natural Language Processing.
+<br><br>
+Passionate to solve day-to-day problems using a touch of technology!
+<br><br>
+I am also the Public Relations Chairman for Technology Students’ Gymkhana, IIT Kharagpur. 
+<br><br>
+Feel free to hit me up at irsh.iitkgp@gmail.com!
 
-<!--
-**1rsh/1rsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<a href="https://github.com/1rsh">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+<a href="https://github.com/1rsh">
+<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1rsh&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+</a>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Machine Learning, and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p>
+<a href="https://www.linkedin.com/in/irsh/">
+  <img src="https://komarev.com/ghpvc/?username=1rsh&style=flat-square" align="right"/>
+</a> 
+</p>
