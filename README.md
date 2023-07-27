@@ -1,4 +1,4 @@
-<h2>Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, My name is Irsh Vijayvargia</h2>
+<h2>Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"><br>My name is Irsh Vijayvargia</h2>
 I am third year undergrad at IIT Kharagpur with a major in Electronics and Electrical Communication Engineering. I have a keen interest in Data Science, Artificial Intelligence and Natural Language Processing.
 <br><br>
 Passionate to solve day-to-day problems using a touch of technology!
@@ -16,7 +16,7 @@ Feel free to hit me up at irsh.iitkgp@gmail.com!
 <a href="https://github.com/1rsh">
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1rsh&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
-
+<br>
 <br>
 <p>
 <a href="https://www.linkedin.com/in/irsh/">
