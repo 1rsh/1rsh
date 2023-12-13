@@ -12,7 +12,7 @@ Feel free to hit me up at irsh.iitkgp@gmail.com!
 <a href="https://github.com/1rsh">
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1rsh&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
-
+<br>
 <a href="https://github.com/1rsh">
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1rsh&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
