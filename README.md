@@ -16,7 +16,7 @@ Feel free to hit me up at irsh.iitkgp@gmail.com!
 <br>
 <p>
 <a href="https://www.linkedin.com/in/irsh/">
-  <img src="https://komarev.com/ghpvc/?username=1rsh&style=flat-square" align="right"/>
+  <img src="https://komarev.com/ghpvc/?username=1rsh&style=flat-square" align="left"/>
 </a> 
 </p>
 <br>
