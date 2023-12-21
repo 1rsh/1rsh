@@ -1,5 +1,5 @@
 <h2>Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"><br><br>My name is Irsh Vijayvargia <a href="https://www.linkedin.com/in/irsh/">
-  <img src="https://komarev.com/ghpvc/?username=1rsh&style=flat-square" align="left"/>
+  <img src="https://komarev.com/ghpvc/?username=1rsh&style=flat-square"/>
 </a> </h2>
 I am third year undergrad at IIT Kharagpur with a major in Electronics and Electrical Communication Engineering. I have a keen interest in Data Science, Artificial Intelligence and Natural Language Processing.
 <br><br>
