@@ -18,8 +18,3 @@ Feel free to hit me up at irsh.iitkgp@gmail.com!
 </a>
 <br>
 <br>
-<p>
-<a href="https://www.linkedin.com/in/irsh/">
-  <img src="https://komarev.com/ghpvc/?username=1rsh&style=flat-square" align="right"/>
-</a> 
-</p>
