@@ -14,4 +14,9 @@ Feel free to hit me up at irsh.iitkgp@gmail.com!
 <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1rsh&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </a>
 <br>
+<p>
+<a href="https://www.linkedin.com/in/irsh/">
+  <img src="https://komarev.com/ghpvc/?username=1rsh&style=flat-square" align="right"/>
+</a> 
+</p>
 <br>
