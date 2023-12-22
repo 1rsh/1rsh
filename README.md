@@ -7,11 +7,11 @@ Passionate to solve day-to-day problems using a touch of technology!
 <br><br>
 I am also the Public Relations Chairman for Technology Students’ Gymkhana, IIT Kharagpur. 
 <br><br>
-Feel free to hit me up at irsh.iitkgp@gmail.com!
+Feel free to hit me up at irsh.iitkgp@gmail.com<a href = "mailto:irsh.iitkgp@gmail.com">✉</a>!
 
 <hr>
 
 <a href="https://github.com/1rsh">
-<img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1rsh&layout=compact&langs_count=8&theme=dark"/>
-<img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1rsh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="550" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1rsh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=550"/>
+<img width = "400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1rsh&layout=compact&langs_count=10&theme=dark"/>
 </a>
