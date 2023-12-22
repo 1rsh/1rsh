@@ -12,6 +12,6 @@ Feel free to hit me up at irsh.iitkgp@gmail.com<a href = "mailto:irsh.iitkgp@gma
 <hr>
 
 <a href="https://github.com/1rsh">
-<img width="550" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1rsh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=550"/>
-<img width = "400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1rsh&layout=compact&langs_count=10&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1rsh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=350&rank_icon=github"/>
+<img width = "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rsh&layout=compact&langs_count=10&theme=dark"/>
 </a>
