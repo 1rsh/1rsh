@@ -18,6 +18,6 @@ Passionate to solve day-to-day problems using a touch of technology!
 
 ## 💼 Projects
 
-* [**QA Genie**](https://github.com/1rsh/qa-genie): A Python Package that generates questions and answers from unstructured data for NLP tasks.
+* [**QA Genie**](https://github.com/1rsh/qa-genie): A Python Package that generates questions and answers from unstructured data for NLP tasks.     [![Downloads](https://static.pepy.tech/badge/qa_genie?logo=download&logoColor=white)](https://www.pepy.tech/projects/qa_genie)
 * [**loggin**](https://github.com/1rsh/loggin): A browser extension that smoothens the tedious task of logging into ERP.
 * [**U-Net Speech Denoising**](https://github.com/1rsh/unet-speech-denoising): PyTorch implementation of U-Net applied on mel-spectograms of audio files for speech denoising.
