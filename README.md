@@ -27,3 +27,4 @@ Passionate to solve day-to-day problems using a touch of technology!
 * [**EC31205**](https://github.com/1rsh/EC31205): Algorithms, Autumn 2023, IIT Kharagpur
 * [**EC39002**](https://github.com/1rsh/EC39002): Digital Communication Laboratory, Spring 2024, IIT Kharagpur
 * [**EC39004**](https://github.com/1rsh/EC39004): VLSI Laboratory, Spring 2024, IIT Kharagpur
+* [**EC39202**](https://github.com/1rsh/EC39202): Embedded Systems Laboratory, Spring 2024, IIT Kharagpur
